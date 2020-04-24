@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3299fce3-e8f9-4b96-93ee-1a602fe964c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcodePractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcodePractice/leetcode/editor/cn/TwoSum$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcodePractice/leetcode/editor/cn/TwoSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcodePractice/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcodePractice/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/translation.json" afterDir="false" />
-    </list>
+    <list default="true" id="3299fce3-e8f9-4b96-93ee-1a602fe964c6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
